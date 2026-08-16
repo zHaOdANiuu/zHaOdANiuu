@@ -1,5 +1,3 @@
-# ZhaoDaNiu
-
 ## Contributions
 
 | Project | Description | Commit |
