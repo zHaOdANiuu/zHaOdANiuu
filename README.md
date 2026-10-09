@@ -1,5 +1,11 @@
+## About Me
+
+Just an unknown person, but love emacs.
+
 ## Contributions
 
 ### GNU Emacs
 - [Set the IME window font on MS-Windows to the appropriate size](https://cgit.git.savannah.gnu.org/cgit/emacs.git/commit/?id=b7b23fce2a6b1c446074b709a9c39584340d713d)
 - [Fix IME composition for Windows TUI](https://cgit.git.savannah.gnu.org/cgit/emacs.git/commit/?id=9e0360d398a9574a9e399efd45dcd1c048cbac7e)
+- [Support scaling of strike-through, overline, and underline lines](https://cgit.git.savannah.gnu.org/cgit/emacs.git/commit/?id=4b76d570d0249d0bd422462361dd627555281ffe)
+- [Add compatibility for extra events and fix IME status event notify](https://cgit.git.savannah.gnu.org/cgit/emacs.git/commit/?id=a8e727e4add08b586e41820acb1f2bef1fa26aa9)
